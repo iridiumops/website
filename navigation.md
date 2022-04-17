@@ -24,7 +24,6 @@
 
   * [Operation Hek Hecate](/news/operation_hek_hecate.md)
   * [New Citadel Anchored](/news/citadel_anchored.md)
-  * [SRP Program](/news/srp.md)
 
 [Wiki]()
 
