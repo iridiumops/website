@@ -1,0 +1,180 @@
+/* background image */
+#md-all{ 
+   background: url(/assets/bg.jpg) no-repeat center center fixed !important; 
+   background-size: cover;
+}
+.navbar-brand{
+   background-image: url(https://images.evetech.net/corporations/98353920/logo) !important;
+   background-repeat: no-repeat !important;
+   background-position: 15px center !important;
+   background-size: auto 80% !important;
+   /*height: 50px*/
+   padding-left: 70px !important;
+   /*margin-left: 10px !important;*/
+}
+.navbar-brand:hover{
+   filter: grayscale(100%);
+}
+.navbar-brand:hover *{
+   filter: none;
+}
+/* footer at bottom */
+#md-all{  
+   position: relative;
+   min-height: 100vh;
+}
+#md-body-container{
+   padding-bottom: 8em; /*6 + 2*/
+}
+#md-all > hr{
+   display:none;
+}
+.scontainer{
+   position: absolute !important;
+   bottom: 0px;
+   width: 100%;
+   height: 6em;
+   background-color: #272b30;
+   border-top: 1px solid #111;
+   padding-top:1em;
+}
+/* title text */
+span[title]:hover{
+   text-decoration: underline;
+   text-decoration-style: solid;
+}
+span[title]{
+   text-decoration: underline;
+   text-decoration-style: dotted;
+}
+/* better links */
+#md-content p a,
+#md-content li a,
+#md-content pre a,
+#md-content b a,
+#md-content i a,
+#md-content small a,
+#md-content big a,
+#md-content sub a,
+#md-content sup a,
+#md-content label a,
+#md-content blockquote a,
+#md-content cite a,
+#md-content span a{
+   text-decoration: underline;
+   text-decoration-style: solid;
+}
+#md-content a:hover {
+	text-decoration:none;
+}
+/* pretty quotes */
+blockquote{
+   padding: 1em 1.5em !important;
+   margin: 2em 0 2em !important;
+   border-left: 3px solid #7a8288 !important;
+}
+blockquote, q{
+	color: #a5a5a5;
+   font-style:italic;
+}
+cite{
+	font-style:italic !important;
+}
+blockquote cite{
+	display:block;
+	text-align:right;
+}
+blockquote cite::before{
+   content:'— ';
+}
+/* fix too large content */
+#md-content{
+   overflow: hidden;
+   position: relative;
+}
+#md-content > *{
+   max-width:100%;
+}
+#md-content > table{
+   table-layout: fixed;
+}
+/* fix table images */
+table td,
+table th{
+   position:relative;
+}
+table td img,
+table th img{
+   max-width:100%;
+}
+/* fix images */
+#md-content .img-thumbnail{
+   border: 1px solid #1C1E22;
+   padding: 5px;
+   border-radius: 3px;
+   display:inline-block;
+   background: #32383E;
+}
+.md-image-group.row{
+   margin-left:0px;
+   margin-right:0px;
+}
+.md-image-group div:last-child{
+   padding-right: 0px;
+}
+.md-image-group div:first-child{
+   padding-left: 0px;
+}
+/* ----------- - Tomorrow Night Theme - START - ------------*/
+/* https://jmblog.github.io/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+/* https://jmblog.github.io/color-themes-for-google-code-highlightjs */
+#md-content .tomorrow-comment, #md-content pre .comment, #md-content pre .title {
+  color: #969896;
+}
+#md-content .tomorrow-red, #md-content pre .variable, #md-content pre .attribute, #md-content pre .tag, #md-content pre .regexp, #md-content pre .ruby .constant, #md-content pre .xml .tag .title, #md-content pre .xml .pi, #md-content pre .xml .doctype, #md-content pre .html .doctype, #md-content pre .css .id, #md-content pre .css .class, #md-content pre .css .pseudo {
+  color: #cc6666;
+}
+#md-content .tomorrow-orange, #md-content pre .number, #md-content pre .preprocessor, #md-content pre .built_in, #md-content pre .literal, #md-content pre .params, #md-content pre .constant {
+  color: #de935f;
+}
+#md-content .tomorrow-yellow, #md-content pre .class, #md-content pre .ruby .class .title, #md-content pre .css .rules .attribute {
+  color: #f0c674;
+}
+#md-content .tomorrow-green, #md-content pre .string, #md-content pre .value, #md-content pre .inheritance, #md-content pre .header, #md-content pre .ruby .symbol, #md-content pre .xml .cdata {
+  color: #b5bd68;
+}
+#md-content .tomorrow-aqua, #md-content pre .css .hexcolor {
+  color: #8abeb7;
+}
+#md-content .tomorrow-blue, #md-content pre .function, #md-content pre .python .decorator, #md-content pre .python .title, #md-content pre .ruby .function .title, #md-content pre .ruby .title .keyword, #md-content pre .perl .sub, #md-content pre .javascript .title, #md-content pre .coffeescript .title {
+  color: #81a2be;
+}
+#md-content .tomorrow-purple, #md-content pre .keyword, #md-content pre .javascript .function {
+  color: #b294bb;
+}
+#md-content pre{
+   background-color: #1d1f21;
+   border: 1px solid #1c1e22;
+   border-radius: 3px;
+}
+#md-content code {
+   display: inline-block;
+   background: #1d1f21;
+   color: #dedede;
+   font-family: Menlo, Monaco, Consolas, monospace;
+   line-height: 1.5;
+   border: 0px solid #1d1f21;
+   padding: 3px 6px;
+   border-radius: 3px;
+}
+#md-content pre code {
+   display: block;
+   background: #1d1f21;
+   color: #c5c8c6;
+   font-family: Menlo, Monaco, Consolas, monospace;
+   line-height: 1.5;
+   border: 0px solid #1d1f21;
+   padding: 10px;
+}
+/* ----------- - Tomorrow Night Theme - END - ------------*/
