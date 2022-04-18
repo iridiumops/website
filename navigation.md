@@ -1,6 +1,7 @@
 # IridiumOps
 
 [About](/index.md)
+[News](/news/index.md)
 [Articles]()
 
   * # Game
@@ -16,14 +17,11 @@
   * [EVE YouTubers](/articles/youtube.md)
 - - - -
   * # Guides
-  * [Tools and resources](/articles/tools.md)
+  * [Tools and Resources](/articles/tools.md)
   * [How to PVP](/articles/pvp_101.md)
   * [Many ways to make ISK](/articles/isk_making_101.md)
-
-[News]()
-
-  * [Operation Hek Hecate](/news/operation_hek_hecate.md)
-  * [New Citadel Anchored](/news/citadel_anchored.md)
+----
+  * [All Articles](/articles/index.md)
 
 [Wiki]()
 
@@ -33,10 +31,11 @@
   * [Ship Replacement Programs](/wiki/srp.md)
   * [Protocols](/wiki/protocols.md)
   * [Memes](/wiki/memes.md)
+  * [All Wiki Pages](/wiki/index.md)
 
 [Members](/members.md)
 [Corporations](/corporations.md)
-[Join us](/join.md)
+[Join Us](/join.md)
 
 [YouTube](http://www.youtube.com/channel/UChBHEuPyKPHYzKf6kMhrRBA/)
 [Discord](https://discord.gg/RcuH9HK)
