@@ -3116,7 +3116,7 @@
       // find also lower level headings
       var $headings = $('#md-content').find('h2, h3, h4').clone();
       // we dont want the text of any child nodes
-      $headings.children().remove();
+      $headings.children(".anchor-highlight").remove();
 
       if($headings.length <= 1) {
          return;
@@ -3148,7 +3148,7 @@
          // highlight in the right menu
          $('#md-page-menu a').each(function (i, e) {
             var $a = $(e);
-            if($first && $a.toptext() === $first.toptext()) {
+            if($first && $a.clone().text() === $first.clone().text()) {
                $('#md-page-menu a.active').removeClass('active');
                //$a.parent('a').addClass('active');
                $a.addClass('active');
@@ -3175,12 +3175,12 @@
          var $heading = $(e);
          var $li = $('<li class="list-group-item" />');
          var $a = $('<a />');
-         $a.attr('href', $.md.util.getInpageAnchorHref($heading.toptext()));
+         $a.attr('href', $.md.util.getInpageAnchorHref($heading.clone().text()));
          $a.click(function (ev) {
             ev.preventDefault();
 
             var $this = $(this);
-            var anchortext = $.md.util.getInpageAnchorText($this.toptext());
+            var anchortext = $.md.util.getInpageAnchorText($this.clone().text());
             $.md.scrollToInPageAnchor(anchortext);
          });
 
@@ -3192,7 +3192,7 @@
          } else { //h2
             //no change, left padding 15px
          }
-         $a.text($heading.toptext());
+         $a.text($heading.clone().text());
 
          $li.append($a);
          $ul.append($li);
