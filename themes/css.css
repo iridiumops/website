@@ -1,16 +1,14 @@
 /* background image */
 #md-all{ 
-   background: url(/assets/bg.jpg) no-repeat center center fixed !important; 
+   background: url(/assets/bg_1.jpg) no-repeat center center fixed !important; 
    background-size: cover;
 }
 .navbar-brand{
-   background-image: url(https://images.evetech.net/corporations/98353920/logo) !important;
+   background-image: url(/assets/logo.png) !important;
    background-repeat: no-repeat !important;
    background-position: 15px center !important;
    background-size: auto 80% !important;
-   /*height: 50px*/
    padding-left: 70px !important;
-   /*margin-left: 10px !important;*/
 }
 .navbar-brand:hover{
    filter: grayscale(100%);
