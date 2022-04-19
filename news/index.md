@@ -1,10 +1,10 @@
 # News [2]
 
-## [New home citadel anchored successfully](/citadel_anchored.md)
+## [New Home Citadel Anchored Successfully](D:/T-Web/iridiumops/news/citadel_anchored.md)
 
 ---------
 
-## [Operation Hek Hecate ](/operation_hek_hecate.md)
+## [Operation Hek Hecate](D:/T-Web/iridiumops/news/operation_hek_hecate.md)
 
 ---------
 

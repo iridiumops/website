@@ -38,7 +38,7 @@
       "lineBreaks": "gfm",
       
       // [html_string]
-      "additionalFooterText": "Copyright &copy; 2012-2022 <a href='#!members.md'>Thomas Iridium</a> | <span title='EVE Online, all associated logos, designs, artworks, characters, storylines, world facts and other recognizable features related to EVE Online trademarks are intellectual property of CCP hf.'>&copy; CCP Games</span> | <a href='https://freedns.afraid.org/'>FreeDNS</a> | ",
+      "additionalFooterText": "Copyright &copy; 2012-2022 <a href='#!/members.md'>Thomas Iridium</a> | <span title='EVE Online, all associated logos, designs, artworks, characters, storylines, world facts and other recognizable features related to EVE Online trademarks are intellectual property of CCP hf.'>&copy; CCP Games</span> | <a href='https://freedns.afraid.org/'>FreeDNS</a> | ",
       
       // [string] default ¶
       "anchorCharacter": "&para;", 
@@ -3378,20 +3378,22 @@
    // note: the footer is part of the GPLv3 legal information
    // and may not be removed or hidden to comply with licensing conditions.
    function addFooter() {
-      var navbar = '';
-      navbar += '<hr><div class="scontainer">';
-      navbar += '<div class="pull-right md-copyright-footer"> ';
-      navbar += '&copy; 2022 OneFileMarkdown';
-      navbar += ' | ';
-      navbar += '<a href="http://www.mdwiki.info">MDwiki</a> &copy; Timo D&ouml;rr and contributors. ';
-      navbar += '</div>';
-      navbar += '</div>';
-      var $navbar = $(navbar);
-      $navbar.css('position', 'relative');
-      $navbar.css('margin-top', '1em');
-      $('#md-all').append($navbar);
+      var footer_html = '';
+      footer_html += '<hr><div class="scontainer">';
+      footer_html += '<div class="pull-right md-copyright-footer">';
+      if($.md.config.rss) {
+         footer_html += '<a href="/rss.xml">RSS</a> | ';
+      }
+      footer_html += '&copy; 2022 OneFileMarkdown | ';
+      footer_html += '<a href="http://www.mdwiki.info/">MDwiki</a> &copy; Timo D&ouml;rr and contributors.';
+      footer_html += '</div>';
+      footer_html += '</div>';
+      var $footer_block = $(footer_html);
+      $footer_block.css('position', 'relative');
+      $footer_block.css('margin-top', '1em');
+      $('#md-all').append($footer_block);
    }
-
+   
    function addAdditionalFooterText() {
       var text = $.md.config.additionalFooterText;
       if(text) {
@@ -3413,7 +3415,7 @@
       }
    };
 
-   // TODO underscores _ in Markdown links are not allowed! bug in our MD imlemenation
+   // TODO underscores _ in Markdown links are not allowed! bug in our MD implementation
 
 }(jQuery));
 </script>
