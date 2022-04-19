@@ -3,17 +3,17 @@
 
 <channel>
    <title>Iridium Ops - News</title>
-   <link>http://iridiumops.uk.to</link>
+   <link>https://iridiumops.uk.to</link>
    <description>Iridium Ops, an EVE Online player group.</description>
 
    <item>
       <title>New Home Citadel Anchored Successfully</title>
-      <link>http://iridiumops.uk.to/news/citadel_anchored.md</link>
+      <link>https://iridiumops.uk.to/#!/news/citadel_anchored.md</link>
       <description></description>
    </item>
    <item>
       <title>Operation Hek Hecate</title>
-      <link>http://iridiumops.uk.to/news/operation_hek_hecate.md</link>
+      <link>https://iridiumops.uk.to/#!/news/operation_hek_hecate.md</link>
       <description></description>
    </item>
 </channel>
