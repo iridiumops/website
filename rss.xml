@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+   <title>Iridium Ops - News</title>
+   <link>http://iridiumops.uk.to</link>
+   <description>Iridium Ops, an EVE Online player group.</description>
+
+   <item>
+      <title>New home citadel anchored successfully</title>
+      <link>http://iridiumops.uk.to/news/citadel_anchored.md</link>
+      <description></description>
+   </item>
+   <item>
+      <title>Operation Hek Hecate </title>
+      <link>http://iridiumops.uk.to/news/operation_hek_hecate.md</link>
+      <description></description>
+   </item>
+</channel>
+
+</rss>

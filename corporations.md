@@ -6,13 +6,15 @@ Iridium Ops is a free association of corporations... an alliance of sorts if you
 
 ## New Eden Independent Corporation
 
-We are here to have fun together, to learn and get better at pvp, to share knowledge and work together to achieve more than an individual could alone while making loads of ISK and gettig cool killmails.
+We are here to have fun together, to learn and get better at pvp, to share knowledge and work together to achieve more than an individual could alone while making loads of ISK and getting cool killmails.
 
-We are meritocratic, no elitism, you are free to join any fleet. We are *in universe corp*, that means, while we are not roleplayers we try to avoid use or irl equivalents, irl culture, current year themes and memes etc.
+We are meritocratic, no elitism, you are free to join any fleet. We are an *in universe corp*, that means, while we are not roleplayers we try to avoid use or irl equivalents, irl culture, current year themes and memes etc.
 
-We are causal players, real life comes first.
+Real life comes first, causal players are welcome.
 
-What do we do?
+### What do we do?
+
+Little bit of everything, to keep the game fun and not to burn out. Our activities include, but are not limited to:
 
 - PvE missions, ratting, exploration, abyss
 - PvP daily fleets
@@ -23,8 +25,9 @@ What do we do?
 - LowSec and FW piracy
 - Trade
 - Planetary Interaction
-- Where we are: Lonetrek and nearby regions
-- We roam in LowSec, NullSec, sometimes WHs
+
+Where we are: Lonetrek and nearby regions
+Where we roam: LowSec, NullSec, sometimes WHs
 
 If you are interested or have any questions, contact us, we will be happy to answer all your questions.
 And if you are experienced player, than help us lead and expand.
@@ -57,7 +60,7 @@ Recruitment status: <span style="color:red;">CLOSED</span>
 
 ## Red Planet Group
 
-Are you planning to live on Mars in SpaceX habitat build inside Starship #420? Do you drive Tesla and play EVE via Starlink powered by Powerwall charged by your Solar Roof? Then your are our guy. Laugh with us to Elon memes and get rich trading Dogecoin. Knowing how to pilot your ship is a nice bonus.
+Are you planning to live on Mars in SpaceX habitat built inside Starship #420? Do you drive Tesla and play EVE via Starlink powered by Powerwall charged by your Solar Roof? Then your are our guy. Laugh with us to Elon memes and get rich trading Dogecoin. Knowing how to pilot your ship is a nice bonus.
 
 ------
 

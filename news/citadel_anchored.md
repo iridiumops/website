@@ -1,3 +1,3 @@
-# New home citadel anchored successfully
+# New Home Citadel Anchored Successfully
 
 

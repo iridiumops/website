@@ -1,30 +1,30 @@
 # Wiki [7]
 
-## [Jargon in EVE explained](/wiki/jargon.md)
+## [Jargon in EVE explained](/jargon.md)
 
 ---------
 
-## [How to...](/wiki/how_to.md)
+## [How to...](/how_to.md)
 
 ---------
 
-## [Iridium Overview Pack](/wiki/overview.md)
+## [Iridium Overview Pack](/overview.md)
 
 ---------
 
-## [Protocols](/wiki/protocols.md)
+## [Protocols](/protocols.md)
 
 ---------
 
-## [Ship Replacement Programs](/wiki/srp.md)
+## [Ship Replacement Programs](/srp.md)
 
 ---------
 
-## [Organization structure](/wiki/organization.md)
+## [Organization structure](/organization.md)
 
 ---------
 
-## [Best EVE Memes](/wiki/memes.md)
+## [Best EVE Memes](/memes.md)
 
 ---------
 

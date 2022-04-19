@@ -70,7 +70,10 @@
       "index": "/index.md",
       
       // [null | string] path to custom favicon in image/x-icon format
-      "favicon": "/assets/favicon.ico",
+      "favicon": "/assets/favicon.ico",  
+      
+      // [null | true | false] add link to pre-generated rss.xml file
+      "rss": true,
       
       // [null | "debug" | "production"]
       "mode": "production"
@@ -2544,6 +2547,7 @@
          loadConfigTheme();
          loadConfigFavicon();
          setPageTitle();
+         addRSS();
          wrapParagraphText();
          linkImagesToSelf();
          groupImages();
@@ -2662,7 +2666,14 @@
          $('title').text($title);
       }
    }
-
+   
+   function addRSS() {
+      if($.md.config.rss) {
+         var rss_tag = '<link rel="alternate" type="application/rss+xml" title="'+$('title').text()+'" href="/rss.xml" />';
+         $('head').append(rss_tag);
+      }
+   }
+   
    function wrapParagraphText() {
       // TODO is this true for marked.js?
 

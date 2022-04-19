@@ -1,4 +1,4 @@
-# YouTube channels to watch
+# YouTube Channels to Watch
 
 ## IridiumOps
 
