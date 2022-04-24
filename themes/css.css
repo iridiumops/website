@@ -105,6 +105,18 @@ table td img,
 table th img{
    max-width:100%;
 }
+/* side content menu */
+#md-page-menu .list-group-item {
+   background-color: transparent !important;
+   margin-bottom: 0px;
+   border-bottom: 0px solid rgba(0,0,0,0.6);
+   border-top: 0px solid rgba(0,0,0,0.6);
+   border-left: 0px solid rgba(0,0,0,0.6);
+   border-right: 0px solid rgba(0,0,0,0.6);
+}
+#md-page-menu .panel {
+   background-color: rgb(50,56,62,0.74) !important;
+}
 /* fix images */
 #md-content .img-thumbnail{
    border: 1px solid #1C1E22;
