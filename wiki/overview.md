@@ -21,35 +21,46 @@ Though not all overview packs are made equal and which to use will depend on you
 
 ## Iridium Overview Pack
 
-Overview pack with 8 tabs, designed for every EVE player, newbie or veteran. This overview will be useful in both fleet and solo PVP, ratting, mining, looting, exploration etc. and in all types of space.
+Overview pack designed for every EVE player, newbie or veteran. This overview will be useful in both fleet and solo PVP, ratting, mining, looting, exploration etc. and in all types of space.
 
-24 overview presets, 4 bracket presets and 3 d-scan presets is the perfect balance between large complicated and too simplistic overviews. Alternative presets provide easy yet good customization for your playstyle.
+12 tabs, 38 overview presets, 3 bracket presets and 3 d-scan presets is the perfect balance between large complicated and too simplistic overviews. Alternative presets provide easy yet good customization for your playstyle.
 
 Iridium Overview uses standardized colors and naming making it compatible with any nullsec bloc.
+
 **Just try it!**
 
-| Iridium Overview          |                                                 |
-| ------------------------- | ----------------------------------------------- |
-| Version                   | v2.9.2 (2022/04/17)                             |
-| Compatibility             | EVE 19.05 - 20.04 (2022/04/12)                  |
-| Easy install              | Join in-game chat channel: **Iridium Overview** |
-| Manual download & install | Download YAML file **[TODO ADD LINK]**          |
+| Iridium Overview          |                                                              |
+| ------------------------- | ------------------------------------------------------------ |
+| Version                   | v3.2.0 (2023/06/14)                                          |
+| Compatibility             | EVE 21.05 (2023/06/06)                                       |
+| Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
+| Manual download & install | [Download YAML file](/files/overview/iridium_overview_20230614_v320.yaml) |
 
 ### Latest changes
 
-- Added CRAB beacons
-- Added extra tutorial NPCs and asteroids
-- Fixed irregular NPCs
-- Various tiny changes thanks to your feedback
+- Version 3.2.0
+
+   - Added new asteroid type
+   - Added new homefront NPCs
+   - Added lancer dreadnought ships
+   - Added scaleable objects
+   - Added one more combined System & PVX filter
+   - Consistent handling of FW militias for those directly enlisted
+   - Added more compact, single window, "carbon" mode option
+   - Various tiny changes thanks to your feedback
+   - Removed legacy version 2.9.4
+
+   As always, updated within 24 hours after game update.
 
 ### How to install?
 
 1. Join in-game chat channel: **Iridium Overview**
-2. Open Overview Settings ( ≡ button, top left corner of the Overview panel)
-3. (Recommended) Select *'Misc'* tab and click *'Reset All Overview Settings'* to remove your old overview
-4. Install overview by clicking on **Iridium Overview / Part 1** and **Iridium Overview / Part 2** in the chat channel
-5. (Optional) Apply compact tab icons by clicking on **Iridium Overview / Tab Icons** from the chat channel
-6. (Recommended) Log out and log in
+2. Reset your old overview settings: [imgur.com/a/2EtPh0J](https://imgur.com/a/2EtPh0J)
+3. Install overview by clicking on **Iridium Overview / Part 1**, **Part 2** and **Part 3** up in the chat channel.
+   1. (Optional) Apply tab icons by clicking on **Iridium Overview / Tab Icons** from the chat channel.
+   2. (Optional) Apply single window compact settings by clicking on **Iridium Overview / Carbon Mode** from the chat channel. Recommended for alts and small screens.
+
+4. (Recommended) Log out and log in
 
 ### How to use?
 
@@ -65,11 +76,12 @@ Then share it in your alliance or corporation, tell all your friends about it or
 
 ### Don't like it?
 
-No problem, try some other overview pack from list of EVE Overviews. They are used by tens of thousands capsuleers across New Eden.
+No problem, try some other overview pack from list of **EVE Overviews** (ingame chat channel). They are used by tens of thousands capsuleers across New Eden.
 
 
 --------
 
-![screen_2](https://i.imgur.com/fZvaQeV.jpeg)
-![screen_3](https://i.imgur.com/df14ojV.png)
-![screen_1](https://i.imgur.com/IefkPv6.png)
+![screen_1](https://i.imgur.com/tcQ2GNz.png)
+![screen_2](https://i.imgur.com/aSXYzO9.jpeg)
+![screen_3](https://i.imgur.com/pRjeJvw.png)
+![screen_4](https://i.imgur.com/T5FNBpw.png)

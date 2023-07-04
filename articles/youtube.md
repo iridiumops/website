@@ -32,9 +32,16 @@
 - https://www.youtube.com/channel/UC6Jhrgl1AD5-NOjanRp0R1A (Snuffed Out)
 - https://www.youtube.com/channel/UC87RMclSng5w5yPfQ_xhIUQ (Stitch K)
 - https://www.youtube.com/channel/UC52027svCwNuYe7rfiFuG1w (Flower Fallen)
+- https://www.youtube.com/channel/UC7rx1i0VMqBVBtHBemFUaIA (Kaiser Friedlich)
 - https://www.youtube.com/c/NOisER_EVE_Online
 - https://www.youtube.com/c/CaldariJoans
-- https://www.youtube.com/channel/UCP9nTDxvVy33vFOCY-BmJ7A (Eve Destruction Broadcasting)
+- https://www.youtube.com/@shannaalabel/videos
+- https://www.youtube.com/@AmeliaDuskspace/videos
+- https://www.youtube.com/@sabresg/videos
+- https://www.youtube.com/@agentspook/videos (whispous)
+- https://www.youtube.com/@evedestructionbroadcasting9447
+- https://www.youtube.com/@evevietnam-squidinc-pandem9435/videos
+- https://www.youtube.com/@repmefirst/videos
 
 ## PVE, Guides, Exploration, Trading etc.
 
@@ -50,11 +57,31 @@
 - https://www.youtube.com/channel/UCRMsrpOqSFxFRhZCxFs4OYQ (Squid Inc)
 - https://www.youtube.com/channel/UC3L83x_sJD7T2iKtV_meXoQ (Brave)
 - https://www.youtube.com/c/AlexanderWheresdEVEonlinevideos
-- https://www.youtube.com/watch?v=dZkryIJMrRI&list=PLsTNaM6f60qv6fTBXhQBosBaGqadw2zHK (Notoras News)
+- https://www.youtube.com/@TheGeniuschrist (Notoras News)
 - https://www.youtube.com/c/FuaConsternation
+- https://www.youtube.com/@lokivalthenub8189/videos
 - https://www.youtube.com/user/Anovergy/featured
 - https://www.youtube.com/channel/UC3kIbMWMRzC4owgAayv9VEg (Hegemon4Hire)
 - https://www.youtube.com/user/Burix1337/videos
+- https://www.youtube.com/@ZendaneEve/videos
+- https://www.youtube.com/@ProjectFreeFolk/videos
+- https://www.youtube.com/@captainbenzie/videos
+- https://www.youtube.com/@ReLoadGV/videos
+- https://www.youtube.com/@waddenderas7774/videos
+- https://www.youtube.com/@GustavMannfred/videos
+- https://www.youtube.com/@RushlockMedia/videos
+- https://www.youtube.com/@komivalentine3067/videos
+- https://www.youtube.com/@mistermonopoly8523/videos
+- https://www.youtube.com/@eveiseasy/videos
+- https://www.youtube.com/@ManicVelocity/videos
+- https://www.youtube.com/@Burix1337/videos
+- https://www.youtube.com/@arcananoctis6310/videos
+- https://www.youtube.com/@irksomebadger/videos
+- https://www.youtube.com/@strange_Net/videos
+- https://www.youtube.com/@alexanderwheresd/videos
+- https://www.youtube.com/@rileyentertainment/videos
+- https://www.youtube.com/@JuriusDoctor/videos
+- https://www.youtube.com/@EVEProsper/videos
 
 ## Music
 

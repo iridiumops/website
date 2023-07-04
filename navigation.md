@@ -2,13 +2,17 @@
 
 [About](/index.md)
 [News](/news/index.md)
+[Tools]()
+
+  * [Skill Calculator](/tools/skill_calc.md)
+  * [PI Calculator](/tools/pi_calc.md)
+
 [Articles]()
 
   * # Game
+
   * [Economy of New Eden](/articles/economy_of_new_eden.md)
-  * [Article 1](/articles/article_1.md)
-  * [Article 2](/articles/article_2.md)
-  * [Article 3](/articles/article_3.md)
+
 - - - -
   * # Lore
   * [Article 4](/articles/article_4.md)

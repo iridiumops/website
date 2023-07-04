@@ -24,7 +24,7 @@ New Eden Independent Corporation organization structure, roles and requirements.
    We respect your privacy, but alt disclosure is required.
 - No SP requirements
 - Alphas and Omegas
-- Activity: 1 fleet or 10 kills
+- Activity: 1 strategic fleet or 10 kills / month
 
 ## Red Members
 
@@ -34,7 +34,7 @@ New Eden Independent Corporation organization structure, roles and requirements.
 
 ## Commanders
 
-- CEOs, directors, diplomats, recruiters
+- CEOs, directors, admirals, diplomats, recruiters
 
 
 

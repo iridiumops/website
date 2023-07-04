@@ -17,5 +17,7 @@
    ISK reserves: <span style="color:orange;">LOW</span>
  - Defense fund
    ISK reserves: <span style="color:orange;">LOW</span>
+ - Structure fund
+   ISK reserves: <span style="color:green;">SOME</span>
  - Capital pilot support
    ISK reserves: <span style="color:red;">NONE</span>

@@ -1,6 +1,7 @@
 # folders
 logs/
 bin/
+temp/
 
 # files
 OneFileMarkdownGenerator.bat

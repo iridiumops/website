@@ -6,19 +6,18 @@ Note: we are currently winning eve, but we might come back soon<sup>TM</sup>.
 
 ## Why Iridium Ops?
 
-*Don't be a Slave of your CEO, join us in Iridium Ops. We will welcome you on our Friend Ship, where we have plenty of Exotic Dancers, Wine, Spirits and Quafe! In our spare time, when we are not shooting enemy ships or making ISK, we keep Fedos as our pets and we are willing to trade some for good intel on krabs, carebears and our enemies in null blobs of blue donut.*
+*Don't be a [Slave](https://everef.net/type/3721) of your CEO, join us in Iridium Ops. We will welcome you on our [Friend Ship](https://everef.net/type/34436), where we have plenty of [Exotic Dancers](https://everef.net/type/17765), [Wine](https://everef.net/type/42), [Spirits](https://everef.net/type/9850) and [Quafe](https://everef.net/type/3699)! In our spare time, when we are not shooting enemy ships or making ISK, we keep [Fedos](https://everef.net/type/26902) as our pets and we are willing to trade some for good intel on krabs, carebears and our enemies in null blobs of blue doughnut.*
 
 <div style="float:right;margin: 0.5em 0em 1em 2em;">[](https://www.youtube.com/watch?v=ywj9tobDzJU)</div>
 
 ### Still not convinced?
 
  - Freedom and friendly environment
- - New players are welcome
- - Bitter vets are welcome
+ - Both new player and bitter vet friendly
  - Alpha friendly, no pressure to subscribe
  - No activity quotas, no CTAs, no mandatory OPs
  - No SP or alt requirements
- - No API/ESI required (regular members)
+ - No API required (regular members)
  - No taxes
  - EU & US time zones
  - ISK making tips and guidance
@@ -30,11 +29,13 @@ Note: we are currently winning eve, but we might come back soon<sup>TM</sup>.
 
 <div style="float:clear;"></div>
 
-## We are recruiting... Join us today!
-
-> When I first [Joined](/join.md) Iridium Ops, all I had, was just a badly fit frigate. Today, I am commanding fleets of faction battleships; raining destruction upon my foes.
->
-> <cite>Anonymous Capsuleer [Federation Navy]</cite>
+### What we do?
+ - PvE missions, ratting, abyss, exploration, mining
+ - PvP daily fleets: small gangs and hunting, roams, gate camps
+ - FW piracy
+ - Trade
+ - Planetary Interaction
+ - We roam in LowSec, NullSec, sometimes WH
 
 ## Become a capsuleer
 
