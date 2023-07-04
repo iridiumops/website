@@ -4,7 +4,7 @@
 
 ---------
 
-## [How to...](/wiki/how_to.md)
+## [Organization structure](/wiki/organization.md)
 
 ---------
 
@@ -16,11 +16,11 @@
 
 ---------
 
-## [Ship Replacement Programs](/wiki/srp.md)
+## [How to...](/wiki/how_to.md)
 
 ---------
 
-## [Organization structure](/wiki/organization.md)
+## [Ship Replacement Programs](/wiki/srp.md)
 
 ---------
 

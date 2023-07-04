@@ -1,6 +1,6 @@
 # News [2]
 
-## [New Home Citadel Anchored Successfully](/news/citadel_anchored.md)
+## [New Home Fortizar Anchored Successfully](/news/citadel_anchored.md)
 
 ---------
 

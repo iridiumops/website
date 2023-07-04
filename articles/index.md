@@ -4,7 +4,7 @@
 
 ---------
 
-## [How to Make ISK in EVE](/articles/isk_making_101.md)
+## [Tools and Resources](/articles/tools.md)
 
 ---------
 
@@ -16,7 +16,7 @@
 
 ---------
 
-## [Tools and Resources](/articles/tools.md)
+## [How to Make ISK in EVE](/articles/isk_making_101.md)
 
 ---------
 
