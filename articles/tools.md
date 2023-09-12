@@ -2,6 +2,8 @@
 
 Collection of useful tools, resources, tutorials, websites, apps, etc...
 
+Let us know if you know about any other.
+
 ## Wiki
 
 - https://wiki.eveuniversity.org/Main_Page 
@@ -21,19 +23,35 @@ Collection of useful tools, resources, tutorials, websites, apps, etc...
 
 ## Wormholes
 
- - https://tripwire.eve-apps.com/
  - http://anoik.is/systems
  - https://docs.google.com/spreadsheets/d/17cNu8hxqJKqkkPnhDlIuJY-IT6ps7kTNCd3BEz0Bvqs/pubhtml# 
  - https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSaCHnBRDw8Ki6nuamMzQv3InN978Zh7F6RcwlYdJHnlQkDrrdz5zrG3Of_8eoyxeqJimMHt9-7GjLn/pubhtml
  - http://www.eve-scout.com/
+ - https://whdb.scan-stakan.space/
 
-## Market
+### WH mapping tools
 
- - https://evemarketer.com/
- - https://eve-marketdata.com/
- - http://evepraisal.com/
+ - https://tripwire.eve-apps.com/ TripWire
+ - https://pathfinder.lost-in-w.space PathFinder
+ - https://wormholes.new-eden.io/ GalaxyFinder
+
+## Market & Appraisal
+
+ - https://www.goonpraisal.com/
+ - https://evepraisal.lethaldosage.org/
  - https://janice.e-351.com/
+ - https://evetycoon.com/appraisal
+ - https://evetycoon.com/market
+ - https://market.fuzzwork.co.uk/appraisal/
+ - https://market.fuzzwork.co.uk/
+ - https://www.eveworkbench.com/tools/appraisal
+ - https://www.eveworkbench.com/market/status
  - https://mutaplasmid.space/
+ - ~~https://evemarketer.com/~~ down
+ - ~~https://eve-marketdata.com/~~ abandoned
+ - ~~https://eve-central.com/~~ abandoned
+ - ~~http://evepraisal.com/~~ discontinued
+ - ~~https://github.com/eve-tools/element43~~ private, must be self-hosted
 
 ## JF/Hauling Services
 
@@ -54,6 +72,7 @@ Collection of useful tools, resources, tutorials, websites, apps, etc...
 
  - http://evefrigates.blogspot.com/ 
  - https://dscan.info/
+ - https://skyride.org/dscan/
 
 ## PVE
 
@@ -67,7 +86,6 @@ Collection of useful tools, resources, tutorials, websites, apps, etc...
 - https://www.adam4eve.eu/ 
 - https://ore.cerlestes.de/ore
 - https://reactions.coalition.space/
-- https://evetycoon.com/market
 - https://evecookbook.com/
 - https://lazy-blacksmith.space/blueprint/
 - http://www.eve-cost.eu/calculator
@@ -90,19 +108,26 @@ Collection of useful tools, resources, tutorials, websites, apps, etc...
  -  https://spaceships.app/
 
 ## News and Community
+
  - https://imperium.news/ 
  - https://eveonion.com/ (very fun but not real xD)
  - https://old.reddit.com/r/Eve/
  - https://forums.eveonline.com/ 
 
-## Other
+## Essentials
 
  - https://eve-offline.net/
+ - https://everef.net/
+
+## Other
+
  - https://www.hoboleaks.space/
  - https://eve-files.com/
  - https://www.driftingloot.com/corps/
  - https://eve-incursions.de/
  - https://evewho.com/
+ - https://jambeeno.com/pje
+ - https://skyride.org/quickmath/implants/
 
 ## Multiboxing
 
@@ -129,4 +154,7 @@ Collection of useful tools, resources, tutorials, websites, apps, etc...
 - http://eve-plh.com/#/home
 - https://github.com/Eve-PySpy/PySpy
 - https://evemu.dev/
-- https://github.com/eve-tools/element43
+
+## More? Is that not enough?
+
+- https://github.com/devfleet/awesome-eve

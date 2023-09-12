@@ -34,7 +34,7 @@ New Eden Independent Corporation organization structure, roles and requirements.
 
 ## Commanders
 
-- CEOs, directors, admirals, diplomats, recruiters
+- CEOs, directors, admirals, officers, diplomats, recruiters
 
 
 

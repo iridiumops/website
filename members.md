@@ -9,7 +9,7 @@ Being immortal capsuleer is hard; however wast the darkness of space, we must su
 
 Alexa is part of Pandemic Horde Incorporated, which she joined shortly after its formation during the Querious exodus and Could Ring offensive against monkeys. During WWB, Alexa followed PH to Fade and later Pure Blind, Geminate, Kalevala Expanse and finally Perrigen Falls. The 7 years (and counting) spent in the same corporations speaks of her loyalty and dedication. 
 
-For a long time, Alexa was one of the most active PVPers in the alliance often charting in top 100 in the alliance and corporation on zkill.
+For a long time, Alexa was one of the most active PVPers in the alliance, often charting in top 100 in the alliance and corporation on zkill.
 
 Even the best lose ships sometimes, however losing a ship in a battle is no problem for her, for our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. Every loss in a new opportunity to improve, learn and become even more powerful.
 

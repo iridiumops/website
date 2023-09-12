@@ -12,7 +12,7 @@ So you want to join us, huh? Alright... let's start then:
 
 1. Join our [Discord server](https://discord.gg/RcuH9HK)
 2. Assign yourself roles to access general EVE Online channels and more importantly the recruitment channel.
-3. Decide which of our [corporations](/corporations.md) your want to join.
+3. Decide which of our [corporations](/corporations.md) your want to join or whether you want to stay independent.
 4. Wait for a recruiter to have a short chat. We don't bite btw.
 5. Register your characters on our [SeAT](https://seat.iridiumops.uk.to/).
 6. Congratulations, you made it. Have fun!

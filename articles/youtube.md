@@ -1,5 +1,7 @@
 # YouTube Channels to Watch
 
+All kinds of eve related video content. Let us know if you know about any other.
+
 ## IridiumOps
 
 - Alexa & Thomas Iridium https://www.youtube.com/channel/UChBHEuPyKPHYzKf6kMhrRBA
@@ -15,18 +17,21 @@
    https://www.youtube.com/watch?v=20F3n6wHsbA&list=PLk-MdOnFK8q6XNZXFiNSvOrr2vYkOO2_a 
 - Clear Skies  - EVE Online Movie - 3 episodes
    https://www.youtube.com/watch?v=5285kr1J4xE&list=PL66220627EE518EE5
+- EVE Trailers
+   https://www.youtube.com/playlist?list=PLQvKSs1k6DLM_A7Y5dbK5uH5kOwNDALK7
 
 ## PVP
 
-- https://www.youtube.com/c/XtraSquishy
+- https://www.youtube.com/c/AurausPorcaleus
+- https://www.youtube.com/@AmeliaDuskspace/videos
 - https://www.youtube.com/c/rhiload
 - https://www.youtube.com/c/worstplayerever
 - https://www.youtube.com/c/BjornBee
 - https://www.youtube.com/c/NidenSommer
 - https://www.youtube.com/c/GOATALLUgaming
+- https://www.youtube.com/c/XtraSquishy
 - https://www.youtube.com/channel/UCC0EQ2Ha-6-Y4DRXLOrvsCA (Cosmo Blink)
 - https://www.youtube.com/channel/UCgm3No5H82LiZhNTyAFyGpg (Friendly Targets)
-- https://www.youtube.com/c/AurausPorcaleus
 - https://www.youtube.com/c/3TEARS
 - https://www.youtube.com/channel/UC03cNH9-mIbazrrXguTiCwA (Ganemede Skylet)
 - https://www.youtube.com/channel/UC6Jhrgl1AD5-NOjanRp0R1A (Snuffed Out)
@@ -36,12 +41,16 @@
 - https://www.youtube.com/c/NOisER_EVE_Online
 - https://www.youtube.com/c/CaldariJoans
 - https://www.youtube.com/@shannaalabel/videos
-- https://www.youtube.com/@AmeliaDuskspace/videos
 - https://www.youtube.com/@sabresg/videos
 - https://www.youtube.com/@agentspook/videos (whispous)
 - https://www.youtube.com/@evedestructionbroadcasting9447
 - https://www.youtube.com/@evevietnam-squidinc-pandem9435/videos
 - https://www.youtube.com/@repmefirst/videos
+- https://www.youtube.com/@ContainerRecords/videos
+- https://www.youtube.com/@ThisisAmi-Eveonline-xi8fb/videos
+- https://www.youtube.com/@ThirteenGaming/videos
+- https://www.youtube.com/@MonkeyEVE/videos
+- https://www.youtube.com/@LegetusOptioxNarbonensii/videos
 
 ## PVE, Guides, Exploration, Trading etc.
 
@@ -80,8 +89,12 @@
 - https://www.youtube.com/@strange_Net/videos
 - https://www.youtube.com/@alexanderwheresd/videos
 - https://www.youtube.com/@rileyentertainment/videos
+- https://www.youtube.com/@chloroken/videos
 - https://www.youtube.com/@JuriusDoctor/videos
+- https://www.youtube.com/@EVEILOnline/videos
 - https://www.youtube.com/@EVEProsper/videos
+- https://www.youtube.com/@OZeve/videos
+- https://www.youtube.com/@i-4023/videos
 
 ## Music
 

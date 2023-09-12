@@ -1,10 +1,10 @@
 # Wiki [7]
 
-## [Jargon in EVE explained](/wiki/jargon.md)
+## [Organization structure](/wiki/organization.md)
 
 ---------
 
-## [Organization structure](/wiki/organization.md)
+## [Jargon in EVE explained](/wiki/jargon.md)
 
 ---------
 

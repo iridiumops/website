@@ -1,7 +1,7 @@
 # Corporations
 
 ```
-Iridium Ops is a free association of corporations... an alliance of sorts if you want. Yet not limited by ingame mechanics.
+Iridium Ops is a free association of corporations and individuals... an alliance of sorts if you want, yet not limited by ingame mechanics.
 ```
 
 ## New Eden Independent Corporation
@@ -39,32 +39,4 @@ And if you are experienced player, than help us lead and expand.
 Recruitment status: <span style="color:red;">CLOSED</span>
 
 ------
-
-## ~~EXIF~~
-
-Recruiting hardcore and experienced PVP pilots. Wormhole group living from C2 (C5/NS statics).
-
-------
-
-Recruitment status: <span style="color:orange;">INVITE ONLY</span>
-
-------
-
-## ~~Libright Combine~~
-
-r/pcm invading EVE - one based capsuleer at a time. All unflaired will be eliminated.
-
-------
-
-Recruitment status: <span style="color:red;">CLOSED</span>
-
-------
-
-## ~~Red Planet Group~~
-
-Are you planning to live on Mars in SpaceX habitat built inside Starship #420? Do you drive Tesla and play EVE via Starlink powered by Powerwall charged by your Solar Roof? Then your are our guy. Laugh with us to Elon memes and get rich trading Dogecoin. Knowing how to pilot your ship is a nice bonus.
-
-------
-
-Recruitment status: <span style="color:red;">CLOSED</span>
 
