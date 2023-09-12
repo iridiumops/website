@@ -6,6 +6,8 @@
 
   * [Skill Calculator](/tools/skill_calc.md)
   * [PI Calculator](/tools/pi_calc.md)
+  * [Market Data Browser](/tools/market_browser.md)
+  * [Map Browser](/tools/map_app.md)
 
 [Articles]()
 

@@ -1,10 +1,10 @@
 # Sitemap
 
 Pages:
+- [navigation](/navigation.md)
 - [join](/join.md)
 - [corporations](/corporations.md)
 - [members](/members.md)
-- [navigation](/navigation.md)
 - [index](/index.md)
 
 Articles:
