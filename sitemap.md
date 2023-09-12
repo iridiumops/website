@@ -20,9 +20,6 @@ News:
 - [citadel anchored](/news/citadel_anchored.md)
 - [operation hek hecate](/news/operation_hek_hecate.md)
 
-Temp:
-- [tools](/temp/tools.md)
-
 Tools:
 - [map app](/tools/map_app.md)
 - [market browser](/tools/market_browser.md)
