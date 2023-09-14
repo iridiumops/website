@@ -16,7 +16,7 @@ Though not all overview packs are made equal and which to use will depend on you
 
 1.  Good overview can greatly help you orient on grid and achieve what you need. 
 2. Bad overview, on the other hand, can get you and your friends killed.
-3. It is hard to get it right by yourself.
+3. It is hard to get it right by yourself, and it takes so much time.
 4. Be smart, use an overview pack, use Iridium Overview!
 
 ## Iridium Overview Pack
@@ -54,13 +54,15 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 ### How to install?
 
-1. Join in-game chat channel: **Iridium Overview**
-2. Reset your old overview settings: [imgur.com/a/2EtPh0J](https://imgur.com/a/2EtPh0J)
-3. Install overview by clicking on **Iridium Overview / Part 1**, **Part 2** and **Part 3** up in the chat channel.
+1. Join in-game chat channel named **Iridium Overview**
+2. Reset your old overview settings: [imgur.com/a/2EtPh0J](https://imgur.com/a/2EtPh0J) (highly recommended)
+3. Close the overview settings window if it's open (highly recommended)
+4. Install overview by clicking on **Iridium Overview / Part 1**, **Part 2** and **Part 3** up in the chat channel.
    1. (Optional) Apply tab icons by clicking on **Iridium Overview / Tab Icons** from the chat channel.
-   2. (Optional) Apply single window compact settings by clicking on **Iridium Overview / Carbon Mode** from the chat channel. Recommended for alts and small screens.
-
-4. (Recommended) Log out and log in
+   2. (Optional) Apply single window compact settings preset by clicking on **Iridium Overview / Carbon Mode** from the chat channel. Recommended for alts and small screens.
+   3. (Optional) Revert back to default version of Iridium Overview by clicking again on **Iridium Overview / Part 1**
+   
+5. Log out and log back in (highly recommended)
 
 ### How to use?
 
@@ -77,6 +79,12 @@ Then share it in your alliance or corporation, tell all your friends about it or
 ### Don't like it?
 
 No problem, try some other overview pack from list of **EVE Overviews** (ingame chat channel). They are used by tens of thousands capsuleers across New Eden.
+
+### Known issues
+
+- When overview settings are open on the first tab during installation, bracket presets are not applied correctly.
+- Local chat standing badges are occasionally not updated automatically and require relog or change of system.
+- Various other color settings may not immediately apply and may require docking and undocking or preferably logging off and logging back in.
 
 
 --------

@@ -1,8 +1,6 @@
 # Corporations
 
-```
-Iridium Ops is a free association of corporations and individuals... an alliance of sorts if you want, yet not limited by ingame mechanics.
-```
+Hint: Iridium Ops is a free association of corporations and individuals... an alliance of sorts if you want, yet not limited by ingame mechanics.
 
 ## New Eden Independent Corporation
 

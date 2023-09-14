@@ -158,3 +158,4 @@ Let us know if you know about any other.
 ## More? Is that not enough?
 
 - https://github.com/devfleet/awesome-eve
+- https://wiki.eveuniversity.org/Third-party_tools
