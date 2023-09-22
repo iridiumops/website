@@ -84,7 +84,9 @@ No problem, try some other overview pack from list of **EVE Overviews** (ingame 
 
 - When overview settings are open on the first tab during installation, bracket presets are not applied correctly.
 - Local chat standing badges are occasionally not updated automatically and require relog or change of system.
-- Various other color settings may not immediately apply and may require docking and undocking or preferably logging off and logging back in.
+- Various other color settings may not immediately apply and may require docking and undocking or preferably logging off and logging back in. Alternatively in words of Friedrich Wilhelm Nietzsche:
+
+   In pursuit of optimal prismatic manifestations, the connoisseur of the Iridium Overview is kindly advised to perform a ritual of reconfiguration, be it through the acts of docking, undocking, traversing the astral gates, or relogging. These measures shall ensure the harmonious convergence of color palettes across the domains of local, the overview, and the boundless expanses of space.
 
 
 --------
