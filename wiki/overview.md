@@ -14,7 +14,7 @@ Though not all overview packs are made equal and which to use will depend on you
 
 ### TL;DR
 
-1.  Good overview can greatly help you orient on grid and achieve what you need. 
+1. Good overview can greatly help you orient on grid and achieve what you need. 
 2. Bad overview, on the other hand, can get you and your friends killed.
 3. It is hard to get it right by yourself, and it takes so much time.
 4. Be smart, use an overview pack, use Iridium Overview!
@@ -31,24 +31,20 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 | Iridium Overview          |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| Version                   | v3.2.0 (2023/06/14)                                          |
-| Compatibility             | EVE 21.05 (2023/06/06)                                       |
+| Version                   | v3.3.0 (2023/11/14)                                          |
+| Compatibility             | EVE 21.05#2 (2023/11/14) - Havoc Expansion                   |
 | Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
-| Manual download & install | [Download YAML file](/files/overview/iridium_overview_20230614_v320.yaml) |
+| Manual download & install | [Download YAML file](/files/overview/iridium_overview_20231114_v330.yaml) |
 
 ### Latest changes
 
-- Version 3.2.0
+- Version 3.3.0 - Havoc Expansion
 
-   - Added new asteroid type
-   - Added new homefront NPCs
-   - Added lancer dreadnought ships
-   - Added scaleable objects
-   - Added one more combined System & PVX filter
-   - Consistent handling of FW militias for those directly enlisted
-   - Added more compact, single window, "carbon" mode option
+   - Added new pirate bases
+   - Added new pirate NPCs
+   - Added new insurgency NPCs
+   - Added retribution timer state
    - Various tiny changes thanks to your feedback
-   - Removed legacy version 2.9.4
 
    As always, updated within 24 hours after game update.
 
@@ -86,7 +82,7 @@ No problem, try some other overview pack from list of **EVE Overviews** (ingame 
 - Local chat standing badges are occasionally not updated automatically and require relog or change of system.
 - Various other color settings may not immediately apply and may require docking and undocking or preferably logging off and logging back in. Alternatively in words of Friedrich Wilhelm Nietzsche:
 
-   In pursuit of optimal prismatic manifestations, the connoisseur of the Iridium Overview is kindly advised to perform a ritual of reconfiguration, be it through the acts of docking, undocking, traversing the astral gates, or relogging. These measures shall ensure the harmonious convergence of color palettes across the domains of local, the overview, and the boundless expanses of space.
+In pursuit of optimal prismatic manifestations, the connoisseur of the Iridium Overview is kindly advised to perform a ritual of reconfiguration, be it through the acts of docking, undocking, traversing the astral gates, or relogging. These measures shall ensure the harmonious convergence of color palettes across the domains of local, the overview, and the boundless expanses of space.
 
 
 --------
