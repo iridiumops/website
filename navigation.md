@@ -11,21 +11,20 @@
 
 [Articles]()
 
-  * # Game
-
-  * [Economy of New Eden](/articles/economy_of_new_eden.md)
-
-- - - -
-  * # Lore
-  * [Article 4](/articles/article_4.md)
-- - - -
+  * # Guides
+  * [Tools and Resources](/articles/tools.md)
+  * [Alts and Multiboxing](/articles/alts_and_multiboxing.md)
+  * [How to PVP](/articles/pvp_101.md)
+  * [Many ways to make ISK](/articles/isk_making_101.md)
+----
   * # Meta
   * [EVE YouTubers](/articles/youtube.md)
 - - - -
-  * # Guides
-  * [Tools and Resources](/articles/tools.md)
-  * [How to PVP](/articles/pvp_101.md)
-  * [Many ways to make ISK](/articles/isk_making_101.md)
+  * # Game
+  * [Economy of New Eden](/articles/economy_of_new_eden.md)
+----
+  * # Lore
+  * [Article 4](/articles/article_4.md)
 ----
   * [All Articles](/articles/index.md)
 

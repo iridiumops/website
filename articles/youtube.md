@@ -51,6 +51,7 @@ All kinds of eve related video content. Let us know if you know about any other.
 - https://www.youtube.com/@ThirteenGaming/videos
 - https://www.youtube.com/@MonkeyEVE/videos
 - https://www.youtube.com/@LegetusOptioxNarbonensii/videos
+- https://www.youtube.com/@TimourAbdulov/videos
 
 ## PVE, Guides, Exploration, Trading etc.
 

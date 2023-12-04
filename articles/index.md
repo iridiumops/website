@@ -1,10 +1,14 @@
-# Articles [5]
+# Articles [6]
 
-## [YouTube Channels to Watch](/articles/youtube.md)
+## [Tools and Resources](/articles/tools.md)
 
 ---------
 
-## [Tools and Resources](/articles/tools.md)
+## [Alts and Multiboxing](/articles/alts_and_multiboxing.md)
+
+---------
+
+## [YouTube Channels to Watch](/articles/youtube.md)
 
 ---------
 

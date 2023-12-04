@@ -14,9 +14,12 @@ Let us know if you know about any other.
 
 - https://evemaps.dotlan.net/ 
 - https://sov.space/
-- http://coalitionsin.space/ (a bit out of date but still useful)
+- ~~http://coalitionsin.space/~~ (abandoned)
 - http://www.verite.space/maps/ (sov map archive)
 - https://eveeye.com/
+- https://github.com/Slazanger/SMT (desktop tool)
+- https://iridiumops.uk.to/#!/tools/map_app.md
+- https://map.new-eden.io/ (3d live zkill activity map)
 
 ![LowSec Subway Map](https://i.imgur.com/Wg1yZla.png)
 ![HiSec Subway Map](https://i.imgur.com/Fq1tlmq.png)
@@ -31,12 +34,13 @@ Let us know if you know about any other.
 
 ### WH mapping tools
 
- - https://tripwire.eve-apps.com/ TripWire
- - https://pathfinder.lost-in-w.space PathFinder
- - https://wormholes.new-eden.io/ GalaxyFinder
+ - [TripWire](https://tripwire.eve-apps.com/) 
+ - [PathFinder](https://pathfinder.lost-in-w.space) 
+ - [GalaxyFinder](https://wormholes.new-eden.io/)
 
 ## Market & Appraisal
 
+ - https://iridiumops.uk.to/#!/tools/market_browser.md
  - https://www.goonpraisal.com/
  - https://evepraisal.lethaldosage.org/
  - https://janice.e-351.com/
@@ -58,7 +62,8 @@ Let us know if you know about any other.
  - https://red-frog.org/
  - https://www.pushx.net/
 
-## Killboards, Data and Intel tools
+## Killboards, PVP Data and PVP Intel tools
+
  - https://zkillboard.com/
  - https://br.evetools.org/
  - https://eve-prism.com/
@@ -67,6 +72,8 @@ Let us know if you know about any other.
  - https://www.eveovermind.com/ 
  - https://br.inyour.space/
  - http://eve-gatecheck.space/eve/
+ - https://www.driftingloot.com/
+ - http://evewarreport.com/
 
 ## PVP
 
@@ -89,34 +96,48 @@ Let us know if you know about any other.
 - https://evecookbook.com/
 - https://lazy-blacksmith.space/blueprint/
 - http://www.eve-cost.eu/calculator
+- https://docs.google.com/spreadsheets/d/1ew-27FWLQZ8y5kudmpUbM9SAbZma2WmDuOVuAoO-XNM/edit#gid=0 WH gas spreadsheet
+- https://docs.google.com/spreadsheets/d/1HH7R9AOHMfAR1KN3nTEBQTBWWp4t8YzvPJhSMSuJRMQ/edit#gid=901566376 WH gas spreadsheet
 
 ### Planetary Interaction
 
- - http://eveplanets.com/
+ - https://iridiumops.uk.to/#!/tools/pi_calc.md
  - https://hanns.io/pi/
  - https://www.eve-webtools.com/Planetary/
  - https://evehelper.tk/
  - https://fazenda.github.io/
+ - ~~http://eveplanets.com/~~ abandoned
 
 ## Fits
 
  - https://github.com/pyfa-org/Pyfa/releases 
  - https://www.eveworkbench.com
 
-## Character Management
+## Character and Skill Management
+
  -  https://github.com/peterhaneve/evemon/releases 
  -  https://spaceships.app/
+ -  https://iridiumops.uk.to/#!/tools/skill_calc.md
+
+## Multiboxing and settings management
+
+ - https://github.com/Phrynohyas/eve-o-preview
+ - https://isboxer.com/multiboxing-eve-online
+ - https://github.com/FontaineRiant/EANM
+ - https://github.com/mintnick/eve-settings-manager
 
 ## News and Community
 
  - https://imperium.news/ 
  - https://eveonion.com/ (very fun but not real xD)
  - https://old.reddit.com/r/Eve/
+ - https://old.reddit.com/r/eveonline/
  - https://forums.eveonline.com/ 
 
 ## Essentials
 
  - https://eve-offline.net/
+ - https://status.eveonline.com
  - https://everef.net/
 
 ## Other
@@ -128,11 +149,8 @@ Let us know if you know about any other.
  - https://evewho.com/
  - https://jambeeno.com/pje
  - https://skyride.org/quickmath/implants/
-
-## Multiboxing
-
-- https://github.com/Phrynohyas/eve-o-preview
-- https://isboxer.com/multiboxing-eve-online
+ - http://fatigue.nakamura-labs.com/
+ - https://eveskink.com/ (free nullsec intel)
 
 ## Guides
 
@@ -141,11 +159,16 @@ Let us know if you know about any other.
 - https://pochven.electusmatari.com/
 - https://eve-files.com/media/1312/station_cyno_placement_guide.pdf
 - https://docs.google.com/document/d/1OY7zBEigOcUdV-ke1tSizXAma3v-U4iAf_HR3mB-07s/preview
+- https://www.thealphasguide.com/
 
 ## Spreadsheets
 
 - https://docs.google.com/spreadsheets/d/15G979IYikNo2YfZw1d2J1rEwVw56_HxIO_kooh9oqvE/edit#gid=0
 - https://app.powerbi.com/view?r=eyJrIjoiYjU4M2YyZTEtNzQ4OC00ZDAxLTgzYjAtMTA1NTBjNzY0ZGM5IiwidCI6IjcwNjE5NDUwLWU1YmMtNDg3MS05MTg2LTc0MDhiMTcwZTEyNCJ9&pageName=ReportSection6c487b903502de046639
+
+## Books
+
+- [Book and Guide Collection](https://mega.nz/folder/hV9jABbT#Cu998fpXPqmuNQyeALo7Kg)
 
 ## Other Software
 
