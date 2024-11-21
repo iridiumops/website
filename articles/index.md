@@ -1,6 +1,6 @@
 # Articles [6]
 
-## [Tools and Resources](/articles/tools.md)
+## [YouTube Channels to Watch](/articles/youtube.md)
 
 ---------
 
@@ -8,7 +8,7 @@
 
 ---------
 
-## [YouTube Channels to Watch](/articles/youtube.md)
+## [Tools and Resources](/articles/tools.md)
 
 ---------
 

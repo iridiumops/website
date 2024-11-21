@@ -40,6 +40,9 @@ All kinds of eve related video content. Let us know if you know about any other.
 - https://www.youtube.com/channel/UC7rx1i0VMqBVBtHBemFUaIA (Kaiser Friedlich)
 - https://www.youtube.com/c/NOisER_EVE_Online
 - https://www.youtube.com/c/CaldariJoans
+- https://www.youtube.com/@LokleyTheo/videos
+- https://www.youtube.com/channel/UCY3BxbLrA-J-wAYvU5F5lPQ/videos (Martino Fabbro)
+- https://www.youtube.com/c/RonanLive/videos
 - https://www.youtube.com/@shannaalabel/videos
 - https://www.youtube.com/@sabresg/videos
 - https://www.youtube.com/@agentspook/videos (whispous)
@@ -52,6 +55,7 @@ All kinds of eve related video content. Let us know if you know about any other.
 - https://www.youtube.com/@MonkeyEVE/videos
 - https://www.youtube.com/@LegetusOptioxNarbonensii/videos
 - https://www.youtube.com/@TimourAbdulov/videos
+-  https://www.youtube.com/channel/UCwaedmQFmVA0RTLJOMJmHlA (Matteo Patel)
 
 ## PVE, Guides, Exploration, Trading etc.
 

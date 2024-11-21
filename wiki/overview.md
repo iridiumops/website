@@ -1,8 +1,8 @@
 # Iridium Overview Pack
 
-## What is an Overview Pack?
+## What is an overview pack?
 
-Internet spaceships are a serious business and so are overviews. The overview window is the most important part of EVE user interface, but it is the hardest thing to configure correctly, yet your ship's life depends on it.  If you don't believe us, listen to [EVE university](https://wiki.eveuniversity.org/Overview):
+Internet spaceships are a serious business and so are overviews. The overview window is the most important part of EVE user interface, but it is the hardest thing to configure correctly, yet your ship's life depends on it. If you don't believe us, listen to [EVE university](https://wiki.eveuniversity.org/Overview):
 
 > The overview window is one of the most essential components of EVE's user interface and is the primary means of viewing items in space.... Though it can be time-consuming to configure, the flexibility and effectiveness of a properly-configured overview justifies the time spent.
 >
@@ -31,22 +31,24 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 | Iridium Overview          |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| Version                   | v3.3.0 (2023/11/14)                                          |
-| Compatibility             | EVE 21.05#2 (2023/11/14) - Havoc Expansion                   |
+| Version                   | v3.5.0 (2024/11/20)                                          |
+| Compatibility             | EVE 22.02 (2024/11/12) - Revenant expansion                  |
 | Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
-| Manual download & install | [Download YAML file](/files/overview/iridium_overview_20231114_v330.yaml) |
+| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/download/v3.5.0/Iridium.Overview.v3.5.0.zip) |
+| GitHub                    | [github.com/iridiumops/overview](https://github.com/iridiumops/overview) |
 
 ### Latest changes
 
-- Version 3.3.0 - Havoc Expansion
+- Version 3.5.0 - Revenant expansion
 
-   - Added new pirate bases
-   - Added new pirate NPCs
-   - Added new insurgency NPCs
-   - Added retribution timer state
+   - Added new officer NPC frigates and cruisers
+   - Added Mercenary Den
+   - Added Rift
+   - Fixed inconsistencies
+   - Cleaned some legacy IDs
    - Various tiny changes thanks to your feedback
 
-   As always, updated within 24 hours after game update.
+   ~~As always, updated within 24 hours after game update.~~
 
 ### How to install?
 
@@ -84,6 +86,15 @@ No problem, try some other overview pack from list of **EVE Overviews** (ingame 
 
 In pursuit of optimal prismatic manifestations, the connoisseur of the Iridium Overview is kindly advised to perform a ritual of reconfiguration, be it through the acts of docking, undocking, traversing the astral gates, or relogging. These measures shall ensure the harmonious convergence of color palettes across the domains of local, the overview, and the boundless expanses of space.
 
+### NEW: Finally Open Source!
+
+After years of solitary development, I'm excited to release Iridium Overview to you as open source.
+
+Feel free to explore the project, propose changes, updates or enhancements. Every bit of help counts. Your contributions can make significant impact! 
+
+Whether you're a seasoned developer or newbie, you can help Iridium Overview stay the best overview pack in EVE Online. And if my contributions slow down, feel free to fork the project and keep the spirit alive.
+
+So check out the [GitHub page](https://github.com/iridiumops/overview)!
 
 --------
 

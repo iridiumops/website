@@ -9,9 +9,9 @@ Pages:
 
 Articles:
 - [index](/articles/index.md)
-- [tools](/articles/tools.md)
-- [alts and multiboxing](/articles/alts_and_multiboxing.md)
 - [youtube](/articles/youtube.md)
+- [alts and multiboxing](/articles/alts_and_multiboxing.md)
+- [tools](/articles/tools.md)
 - [economy of new eden](/articles/economy_of_new_eden.md)
 - [pvp 101](/articles/pvp_101.md)
 - [isk making 101](/articles/isk_making_101.md)

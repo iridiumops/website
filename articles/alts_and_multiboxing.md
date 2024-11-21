@@ -48,7 +48,11 @@ Once your character or account is fully trained for what you want to do with it,
 
 Skillfarming used to be much more profitable but as people figure it out competition increases and profit evaporates. Skillfarming is also risky and volatile as it depends on PLEX and extractor sales. More info here: https://iridiumops.uk.to/#!/tools/skill_calc.md
 
-Earning ISK to PLEX your account is more than possible, but should not be your goal, especially if you are new to the game. It can easily turn EVE into a job or lead to a burnout. At least wait until you are established and have some skills. Then depending on what you consider fun, many of the activities below can be low effort or even passive, others can be fun and even lucrative allowing you to PLEX with ISK while doing something enjoyable. 
+Earning ISK to PLEX your account is more than possible, but should not be your main goal, especially if you are new to the game. It can easily turn EVE into a job or lead to a burnout. If you live in a western country, it is likely much more time efficient to buy subscription than to buy PLEX with ISK.
+
+If you still want to earn ISK to buy PLEX, I would suggest waiting until you are comfortably established in EVE and have some skills trained. Then depending on what you consider fun, many of the activities listed below can be low effort or even passive, others can be fun and even lucrative allowing you to PLEX with ISK while doing something enjoyable. 
+
+It is common to subscribe some accounts with RL currency and additional alts with PLEX bought for ISK. 
 
 Alpha account is also not as limiting as it once was and you can have as many as you want, each specialized in something else, maybe a different ship, weapon system or activity.
 
@@ -58,7 +62,7 @@ Non-exhaustive list of common activities and uses for alts. You can combine pret
 
 ### Capital alts
 
-It is usually recommended to train capital ships on an alt you you can multibox them and use your main at the same time. To move them around you will need yet another alt multiboxable which will light cynosural fields (cynos for short).
+It is usually recommended to train capital ships on an alt so you can multibox them and use your main at the same time. To move them around you will need preferably yet another alt that is multiboxable which will light cynosural fields (cynos for short).
 
 Cap alts can be used for various purpose; PVP, PVE CRAB beacons, boosts, mining, ratting, hauling, bridging, etc...
 
@@ -109,7 +113,7 @@ Even though great hauling services exists, both traders and industrialists will 
    lows sp, low value hauler
 - DST (deep space transport)
    best hisec hauler
-- BR (blocade runner)
+- BR (blockade runner)
    for lowsec and dangerous space
 - Freighter
    high volume hauler
@@ -139,6 +143,7 @@ Even though great hauling services exists, both traders and industrialists will 
 ### Other
 
 - SP farm
+   skillfarming can help to subsidize your fully trained characters
 - citadel gunner
 - corp holder
 - spy + awoxer
