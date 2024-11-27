@@ -1,10 +1,10 @@
 /* background image */
 #md-all{ 
-   background: url(/assets/bg_1.jpg) no-repeat center center fixed !important; 
+   background: url(/website/assets/bg_1.jpg) no-repeat center center fixed !important; 
    background-size: cover !important;
 }
 .navbar-brand{
-   background-image: url(/assets/logo.png) !important;
+   background-image: url(/website/assets/logo.png) !important;
    background-repeat: no-repeat !important;
    background-position: 15px center !important;
    background-size: auto 80% !important;

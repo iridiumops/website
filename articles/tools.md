@@ -18,7 +18,7 @@ Let us know if you know about any other.
 - http://www.verite.space/maps/ (sov map archive)
 - https://eveeye.com/
 - https://github.com/Slazanger/SMT (desktop tool)
-- https://iridiumops.uk.to/#!/tools/map_app.md
+- https://iridiumops.github.io/website/#!/tools/map_app.md
 - https://map.new-eden.io/ (3d live zkill activity map)
 
 ![LowSec Subway Map](https://i.imgur.com/Wg1yZla.png)
@@ -40,7 +40,7 @@ Let us know if you know about any other.
 
 ## Market & Appraisal
 
- - https://iridiumops.uk.to/#!/tools/market_browser.md
+ - https://iridiumops.github.io/website/#!/tools/market_browser.md
  - https://www.goonpraisal.com/
  - https://evepraisal.lethaldosage.org/
  - https://janice.e-351.com/
@@ -101,7 +101,7 @@ Let us know if you know about any other.
 
 ### Planetary Interaction
 
- - https://iridiumops.uk.to/#!/tools/pi_calc.md
+ - https://iridiumops.github.io/website/#!/tools/pi_calc.md
  - https://hanns.io/pi/
  - https://www.eve-webtools.com/Planetary/
  - https://evehelper.tk/
@@ -117,7 +117,7 @@ Let us know if you know about any other.
 
  -  https://github.com/peterhaneve/evemon/releases 
  -  https://spaceships.app/
- -  https://iridiumops.uk.to/#!/tools/skill_calc.md
+ -  https://iridiumops.github.io/website/#!/tools/skill_calc.md
 
 ## Multiboxing and settings management
 

@@ -18,7 +18,7 @@ Alphas are limited to single client, so no multiboxing for you, but you can stil
 
 ## Tools
 
-Different tools to help switch clients, sync UI settings and plan skills exist. The most popular tools are listed here: https://iridiumops.uk.to/#!/articles/tools.md
+Different tools to help switch clients, sync UI settings and plan skills exist. The most popular tools are listed here: https://iridiumops.github.io/website/#!/articles/tools.md
 
 ## Hardware
 
@@ -46,7 +46,7 @@ With right timing and discounts you can get your sub cost down to nearly 5$ per 
 
 Once your character or account is fully trained for what you want to do with it, you can significantly subsidize your account with skillfarming. With optimal approach, implants, remap, 12m+ subscription or right discount and right market orders it can even generate small surplus of isk (at least at the time of writing), allowing you to play for free as omega at the cost of no skill training. 
 
-Skillfarming used to be much more profitable but as people figure it out competition increases and profit evaporates. Skillfarming is also risky and volatile as it depends on PLEX and extractor sales. More info here: https://iridiumops.uk.to/#!/tools/skill_calc.md
+Skillfarming used to be much more profitable but as people figure it out competition increases and profit evaporates. Skillfarming is also risky and volatile as it depends on PLEX and extractor sales. More info here: https://iridiumops.github.io/website/#!/tools/skill_calc.md
 
 Earning ISK to PLEX your account is more than possible, but should not be your main goal, especially if you are new to the game. It can easily turn EVE into a job or lead to a burnout. If you live in a western country, it is likely much more time efficient to buy subscription than to buy PLEX with ISK.
 
