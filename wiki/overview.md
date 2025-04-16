@@ -31,22 +31,24 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 | Iridium Overview          |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| Version                   | v3.5.0 (2024/11/20)                                          |
-| Compatibility             | EVE 22.02 (2024/11/12) - Revenant expansion                  |
+| Version                   | v3.6.1 (2025/04/16)                                          |
+| Compatibility             | EVE 22.02 (2025/04/16) - Revenant expansion, Capsuleer Day XXII |
 | Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
-| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/download/v3.5.0/Iridium.Overview.v3.5.0.zip) |
+| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/tag/v3.6.1) |
 | GitHub                    | [github.com/iridiumops/overview](https://github.com/iridiumops/overview) |
 
 ### Latest changes
 
-- Version 3.5.0 - Revenant expansion
+- Version 3.6.1 (2025/04/16)
 
-   - Added new officer NPC frigates and cruisers
-   - Added Mercenary Den
-   - Added Rift
-   - Fixed inconsistencies
-   - Cleaned some legacy IDs
+   - Maintenance cleanup
    - Various tiny changes thanks to your feedback
+
+- Version 3.6.0 (2025/04/16) - Revenant expansion, Capsuleer Day XXII
+
+   - Added new Tyranite asteroids
+   - Added Pirate Spawners
+   - Added Local Beacons
 
    ~~As always, updated within 24 hours after game update.~~
 
@@ -72,7 +74,7 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 ### Like It?
 
-Then share it in your alliance or corporation, tell all your friends about it or donate small amount of ISK to Thomas Iridium or Alexa Iridium, overview pack creators. Feel free to send us any (positive or negative) feedback, so we can make it even better.
+Then share it in your alliance or corporation, tell all your friends about it or donate small amount of ISK to the overview pack maintainers Thomas Iridium and Feer Truelight. Feel free to send us any (positive or negative) feedback, so we can make it even better.
 
 ### Don't like it?
 
