@@ -31,26 +31,22 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 | Iridium Overview          |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| Version                   | v3.6.1 (2025/04/16)                                          |
-| Compatibility             | EVE 22.02 (2025/04/16) - Revenant expansion, Capsuleer Day XXII |
+| Version                   | v3.7.0 (2025/11/18)                                          |
+| Compatibility             | EVE 23.02 (2025/11/18) - Catalyst Expansion |
 | Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
-| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/tag/v3.6.1) |
+| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/tag/v3.7.0) |
 | GitHub                    | [github.com/iridiumops/overview](https://github.com/iridiumops/overview) |
 
 ### Latest changes
 
-- Version 3.6.1 (2025/04/16)
+- Version 3.7.0 (2025/11/18) - Catalyst Expansion
 
-   - Maintenance cleanup
-   - Various tiny changes thanks to your feedback
+   - Added Expedition Command Ship
+   - Added Mobile Phase Anchor
+   - Added new NPCs
+   - Added new asteroids and belts
 
-- Version 3.6.0 (2025/04/16) - Revenant expansion, Capsuleer Day XXII
-
-   - Added new Tyranite asteroids
-   - Added Pirate Spawners
-   - Added Local Beacons
-
-   ~~As always, updated within 24 hours after game update.~~
+   As always, updated within 24 hours after game update.
 
 ### How to install?
 
@@ -104,3 +100,4 @@ So check out the [GitHub page](https://github.com/iridiumops/overview)!
 ![screen_2](https://i.imgur.com/aSXYzO9.jpeg)
 ![screen_3](https://i.imgur.com/pRjeJvw.png)
 ![screen_4](https://i.imgur.com/T5FNBpw.png)
+
