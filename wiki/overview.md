@@ -31,10 +31,10 @@ Iridium Overview uses standardized colors and naming making it compatible with a
 
 | Iridium Overview          |                                                              |
 | ------------------------- | ------------------------------------------------------------ |
-| Version                   | v3.7.0 (2025/11/18)                                          |
-| Compatibility             | EVE 23.02 (2025/11/18) - Catalyst Expansion |
+| Version                   | v3.7.1 (2025/12/11)                                          |
+| Compatibility             | EVE 23.02 (2025/12/11) - Catalyst Expansion - Winter Nexus   |
 | Easy install              | Join in-game chat channel: **Iridium Overview** and click the install links. Ingame chat channel will always have the latest version. |
-| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/tag/v3.7.0) |
+| Manual download & install | [Download YAML files](https://github.com/iridiumops/overview/releases/tag/v3.7.1) |
 | GitHub                    | [github.com/iridiumops/overview](https://github.com/iridiumops/overview) |
 
 ### Latest changes
@@ -100,4 +100,5 @@ So check out the [GitHub page](https://github.com/iridiumops/overview)!
 ![screen_2](https://i.imgur.com/aSXYzO9.jpeg)
 ![screen_3](https://i.imgur.com/pRjeJvw.png)
 ![screen_4](https://i.imgur.com/T5FNBpw.png)
+
 
